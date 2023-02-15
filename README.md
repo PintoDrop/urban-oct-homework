@@ -13,6 +13,7 @@ N/A
 This was good practice for refactoring code and deploying via github. Listed below were the tasks that we needed to accomplish.
 
 ## Credits
+
 N/A
 
 ## License
