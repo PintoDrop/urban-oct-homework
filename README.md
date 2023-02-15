@@ -1,18 +1,22 @@
 # Code Refactor Starter Code
 
-Description
+## Description
+
 For this project we were given the code to a website. We were asked to refreactor the starter code and clean it up. After the code was refactored (taking out the divs and adding more clear lines of code that did not alter it.) the code was pushed to my github. The website was deployed via github and both github and the website link will be submitted for this project.
 
-Installation
+## Installation
+
 N/A
 
-Usage
+## Usage
+
 This was good practice for refactoring code and deploying via github. Listed below were the tasks that we needed to accomplish.
 
-Credits
+## Credits
 N/A
 
-License
+## License
+
 Please refer to the LICENSE in the repo.
 
 GIVEN a webpage meets accessibility standards
